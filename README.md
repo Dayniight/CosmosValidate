@@ -1,4 +1,4 @@
-# Pristine - Vanilla javascript form validation library
+# CosmosValidate - Vanilla javascript form validation library by Pristine
 {:.hide}
 
 **~4kb minified, ~2kb gzipped, no dependencies**
